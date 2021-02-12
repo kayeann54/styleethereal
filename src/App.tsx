@@ -6,9 +6,10 @@ import HeaderComponent from './components/HeaderComponent/HeaderComponent';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <HeaderComponent></HeaderComponent>
-      </header>
+    
+      <HeaderComponent></HeaderComponent>
+
+
     </div>
   );
 }

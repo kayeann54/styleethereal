@@ -3,7 +3,7 @@ import styles from './HeaderComponent.module.scss';
 
 const HeaderComponent: React.FC = () => (
   <div className={styles.HeaderComponent}>
-    HeaderComponent Component
+    HeaderComponent Component Hello World
   </div>
 );
 
